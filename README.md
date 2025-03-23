@@ -2,6 +2,8 @@
 
 ## Overview
 The **AI-powered Resume Screening and Ranking System** automates the recruitment process by analyzing and ranking resumes based on predefined job criteria. Using Natural Language Processing (NLP) and Machine Learning (ML), the system evaluates key aspects of resumes, ensuring efficient and unbiased candidate selection.
+![image](https://github.com/user-attachments/assets/b58e4f22-d80d-4d24-bb87-18e8aa54b607)
+
 
 ## Features
 - **Automated Resume Parsing** – Extracts education, work experience, skills, and certifications.
